@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "LuoXiaohei",
+	"model": "LuoXiaohei.moc",
+	"textures": [
+		"LuoXiaohei.2048/texture_00.png"
+	]
+}

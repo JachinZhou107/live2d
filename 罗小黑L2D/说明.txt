@@ -1,0 +1,8 @@
+本模型由 @迷茫的嘉鸿 制作。
+https://space.bilibili.com/38286626
+(如果可以就关注一下我吧！谢谢啦！)
+——————————
+【说明】
+1.LuoXiaohei是人形罗小黑的模型，LXHCat是罗小黑猫的模型。
+2.可用各种Live2D查看器打开模型文件，若要应用到虚拟主播，则需要在Steam上购买FaceRig及其L2D模块，下载安装后将模型文件夹拖到FaceRig\Mod\VP\PC_CustomData\Objects\里面即可。
+3.第一次做Live2D模型，难免有各种瑕疵与不足，还请各位大佬谅解。
